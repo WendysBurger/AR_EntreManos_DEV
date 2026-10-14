@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 18,
+    "width": 1237,
+    "height": 1650,
+    "isRotated": false,
+    "originalWidth": 1275,
+    "originalHeight": 1650
+  },
+  "imagePath": "image-targets/CartaYta_2_luminance.png",
+  "metadata": null,
+  "name": "CartaYta_2",
+  "resources": {
+    "originalImage": "CartaYta_2_original.png",
+    "croppedImage": "CartaYta_2_cropped.png",
+    "thumbnailImage": "CartaYta_2_thumbnail.png",
+    "luminanceImage": "CartaYta_2_luminance.png"
+  },
+  "created": 1791931906352,
+  "updated": 1791931906352
+}
