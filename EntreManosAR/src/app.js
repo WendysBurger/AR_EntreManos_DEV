@@ -3,7 +3,11 @@ const onxrloaded = () => {
     imageTargetData: [
       require('../image-targets/CartaYta_1.json'),
       require('../image-targets/CartaYta_2.json'),
-      require('../image-targets/imagetarget.json')
+      require('../image-targets/CartaYta_3.json'),
+      require('../image-targets/CartaYta_4.json'),
+      require('../image-targets/CartaYta_5.json'),
+      require('../image-targets/CartaYta_6.json'),
+      require('../image-targets/CartaYta_7.json')
     ],
   })
 }
