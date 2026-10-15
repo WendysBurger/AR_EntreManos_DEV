@@ -241,7 +241,7 @@
       "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
       "components": {},
-      "name": "Carta 4 - temporal",
+      "name": "Carta 4 ",
       "imageTarget": {
         "name": "imagetarget"
       },
@@ -294,7 +294,7 @@
     "c501d6cf-888e-4315-9133-b24facadd0e2": {
       "id": "c501d6cf-888e-4315-9133-b24facadd0e2",
       "position": [
-        5.5800878261044025,
+        5.7469678553914765,
         0,
         0
       ],
@@ -773,6 +773,446 @@
         "src": {
           "type": "asset",
           "asset": "assets/Carta_2.mp3"
+        },
+        "loop": true
+      }
+    },
+    "4606193d-4346-4eac-b650-47f9df067828": {
+      "id": "4606193d-4346-4eac-b650-47f9df067828",
+      "position": [
+        4.445901159532457e-16,
+        -0.002255880539642874,
+        0.48906036941344644
+      ],
+      "rotation": [
+        3.925231146709439e-17,
+        -3.925231146709438e-17,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Carta4_Capa1.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (12)",
+      "order": 9.470084992002295,
+      "parentId": "7098ad0d-d164-4123-b57c-7422a2615acf"
+    },
+    "48a1efd3-0636-4b25-bf28-3723607e4835": {
+      "id": "48a1efd3-0636-4b25-bf28-3723607e4835",
+      "position": [
+        4.445901159532457e-16,
+        -0.002255880539642874,
+        0.7830884237892654
+      ],
+      "rotation": [
+        3.925231146709439e-17,
+        -3.925231146709438e-17,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Carta4_Capa2.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (13)",
+      "order": 10.982814436325699,
+      "parentId": "7098ad0d-d164-4123-b57c-7422a2615acf"
+    },
+    "175e5a91-052e-495f-b383-b061d323c888": {
+      "id": "175e5a91-052e-495f-b383-b061d323c888",
+      "position": [
+        4.445901159532457e-16,
+        -0.002255880539642874,
+        1.3760964505567195
+      ],
+      "rotation": [
+        3.925231146709439e-17,
+        -3.925231146709438e-17,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Carta4_Capa3.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (14)",
+      "order": 12.122109224540683,
+      "parentId": "7098ad0d-d164-4123-b57c-7422a2615acf"
+    },
+    "efc47a81-17d2-4ccb-b8eb-3309a58b2c6c": {
+      "id": "efc47a81-17d2-4ccb-b8eb-3309a58b2c6c",
+      "position": [
+        4.445901159532457e-16,
+        -0.002255880539642874,
+        1.457166594488901
+      ],
+      "rotation": [
+        3.925231146709439e-17,
+        -3.925231146709438e-17,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Carta4_Capa4.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (15)",
+      "order": 13.25968069180196,
+      "parentId": "7098ad0d-d164-4123-b57c-7422a2615acf"
+    },
+    "34aed18b-b303-4d2e-8d02-29f5cadfddd0": {
+      "id": "34aed18b-b303-4d2e-8d02-29f5cadfddd0",
+      "position": [
+        0.08707290296650548,
+        -0.2069005219714115,
+        1.0746959536598848
+      ],
+      "rotation": [
+        3.925231146709439e-17,
+        -3.925231146709438e-17,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Carta4_Capa5.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (16)",
+      "order": 14.879242757935462,
+      "parentId": "7098ad0d-d164-4123-b57c-7422a2615acf"
+    },
+    "07ad86ce-3eb3-4894-a6a9-3ecf6da6ec30": {
+      "id": "07ad86ce-3eb3-4894-a6a9-3ecf6da6ec30",
+      "position": [
+        -2.325530216669223e-18,
+        0.010473257017230342,
+        0.11745644161869884
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "7098ad0d-d164-4123-b57c-7422a2615acf",
+      "components": {
+        "9526f1bd-0abd-4113-a566-e173855f1e64": {
+          "id": "9526f1bd-0abd-4113-a566-e173855f1e64",
+          "name": "Image Target Audio",
+          "parameters": {
+            "volume": 1
+          }
+        }
+      },
+      "name": "Audio 4",
+      "order": 16.823321881202467,
+      "audio": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/Carta_4.mp3"
+        },
+        "loop": true
+      }
+    },
+    "069628cb-43a8-4dc4-8c4b-5962d3cf0370": {
+      "id": "069628cb-43a8-4dc4-8c4b-5962d3cf0370",
+      "position": [
+        7.724403549829934,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "Carta 6",
+      "imageTarget": {
+        "name": "imagetarget"
+      },
+      "order": 10.94879519343963
+    },
+    "d53ec8c1-bc20-4068-8411-9fda8fa0fd2f": {
+      "id": "d53ec8c1-bc20-4068-8411-9fda8fa0fd2f",
+      "position": [
+        10.072845680644845,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "Carta 7",
+      "imageTarget": {
+        "name": "imagetarget"
+      },
+      "order": 12.713178252866731
+    },
+    "9b196627-5c46-48ac-b63b-f22ae877f1f4": {
+      "id": "9b196627-5c46-48ac-b63b-f22ae877f1f4",
+      "position": [
+        4.647606598018379e-16,
+        -0.09309593430002394,
+        0.4857692497003385
+      ],
+      "rotation": [
+        3.925231146709439e-17,
+        -3.925231146709438e-17,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Carta6_Capa1.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (17)",
+      "order": 14.125366203280358,
+      "parentId": "069628cb-43a8-4dc4-8c4b-5962d3cf0370"
+    },
+    "6ee78cbc-2eea-47c6-bc1e-7e3537299f2d": {
+      "id": "6ee78cbc-2eea-47c6-bc1e-7e3537299f2d",
+      "position": [
+        4.647606598018379e-16,
+        -0.09309593430002394,
+        0.7431577465621371
+      ],
+      "rotation": [
+        3.925231146709439e-17,
+        -3.925231146709438e-17,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Carta6_Capa2.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (18)",
+      "order": 15.244087386772483,
+      "parentId": "069628cb-43a8-4dc4-8c4b-5962d3cf0370"
+    },
+    "307172f9-b46f-4ea1-9f31-f9989f93841d": {
+      "id": "307172f9-b46f-4ea1-9f31-f9989f93841d",
+      "position": [
+        4.647606598018379e-16,
+        -0.09309593430002394,
+        0.9958614412096913
+      ],
+      "rotation": [
+        3.925231146709439e-17,
+        -3.925231146709438e-17,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Carta6_Capa3.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (19)",
+      "order": 16.62143358630395,
+      "parentId": "069628cb-43a8-4dc4-8c4b-5962d3cf0370"
+    },
+    "60f45276-8378-405e-91df-72f82773d217": {
+      "id": "60f45276-8378-405e-91df-72f82773d217",
+      "position": [
+        2.0938640504527578e-17,
+        -0.09429925357383517,
+        0.22715076746938534
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7071067811865475,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "069628cb-43a8-4dc4-8c4b-5962d3cf0370",
+      "components": {
+        "f32ea1df-29a1-444c-ae7e-ef1efaa9ec85": {
+          "id": "f32ea1df-29a1-444c-ae7e-ef1efaa9ec85",
+          "name": "Image Target Audio",
+          "parameters": {
+            "volume": 1
+          }
+        }
+      },
+      "name": "Audio 6",
+      "order": 17.973513169132083,
+      "audio": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/Carta_6.mp3"
         },
         "loop": true
       }
