@@ -103,9 +103,9 @@
     "b179e6ed-349a-4ccd-b057-cb813000f7b0": {
       "id": "b179e6ed-349a-4ccd-b057-cb813000f7b0",
       "position": [
-        0.05165539901089433,
-        -0.34253215096098777,
-        0.5637649046988206
+        0.033106985002311795,
+        -0.19708273399767448,
+        0.4078601719946596
       ],
       "rotation": [
         5.551115123125784e-17,
@@ -120,8 +120,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 1,
-        "height": 0.5
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -329,9 +329,9 @@
     "3aac52ea-8ab2-49a0-a721-8103a578327e": {
       "id": "3aac52ea-8ab2-49a0-a721-8103a578327e",
       "position": [
-        0.04645692269419088,
-        -0.34253215096098777,
-        0.6623465110088739
+        0.02142982502758617,
+        -0.2179582245347352,
+        0.49451577072368236
       ],
       "rotation": [
         5.551115123125784e-17,
@@ -346,8 +346,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 1,
-        "height": 0.5
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -367,9 +367,9 @@
     "65ee379a-7c40-4076-aa1e-fb5f2643ee34": {
       "id": "65ee379a-7c40-4076-aa1e-fb5f2643ee34",
       "position": [
-        0.03893104125447211,
-        -0.34253215096098777,
-        0.736838611052245
+        -0.013128950616763113,
+        -0.24980139180793956,
+        0.5930004483163992
       ],
       "rotation": [
         5.551115123125784e-17,
@@ -384,8 +384,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 1,
-        "height": 0.5
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -405,9 +405,9 @@
     "51cbda1f-f04e-47e5-9397-53ba4f35f8c9": {
       "id": "51cbda1f-f04e-47e5-9397-53ba4f35f8c9",
       "position": [
-        0.08254221698941988,
-        -0.34253215096098777,
-        0.7942224855527612
+        0.03048222511818377,
+        -0.19316831125836928,
+        0.6013637681488303
       ],
       "rotation": [
         5.551115123125784e-17,
@@ -422,8 +422,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 1,
-        "height": 0.5
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -443,9 +443,9 @@
     "4805e375-be6d-46d4-84d2-4ba01d2acd0a": {
       "id": "4805e375-be6d-46d4-84d2-4ba01d2acd0a",
       "position": [
-        0.06821863157409824,
-        -0.2649239141741504,
-        0.9040319276133647
+        0.06640973461758248,
+        -0.1721931550211022,
+        0.6727317382914966
       ],
       "rotation": [
         5.551115123125784e-17,
@@ -460,8 +460,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 1,
-        "height": 0.5
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -481,9 +481,9 @@
     "0737d50c-966c-4897-b5ad-84bd3540958c": {
       "id": "0737d50c-966c-4897-b5ad-84bd3540958c",
       "position": [
-        0.09476688226428598,
-        -0.34253215096098777,
-        0.8942817094059571
+        0.03309307462728395,
+        -0.2303662017934587,
+        0.7415505388178472
       ],
       "rotation": [
         5.551115123125784e-17,
@@ -498,8 +498,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 1,
-        "height": 0.5
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1090,8 +1090,8 @@
     "9b196627-5c46-48ac-b63b-f22ae877f1f4": {
       "id": "9b196627-5c46-48ac-b63b-f22ae877f1f4",
       "position": [
-        4.647606598018379e-16,
-        -0.09309593430002394,
+        8.881784197001252e-16,
+        -0.2557646427478647,
         0.4857692497003385
       ],
       "rotation": [
@@ -1107,8 +1107,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1128,8 +1128,8 @@
     "6ee78cbc-2eea-47c6-bc1e-7e3537299f2d": {
       "id": "6ee78cbc-2eea-47c6-bc1e-7e3537299f2d",
       "position": [
-        4.647606598018379e-16,
-        -0.09309593430002394,
+        0.03219659939692221,
+        -0.13742510009251113,
         0.7431577465621371
       ],
       "rotation": [
@@ -1145,8 +1145,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1166,7 +1166,7 @@
     "307172f9-b46f-4ea1-9f31-f9989f93841d": {
       "id": "307172f9-b46f-4ea1-9f31-f9989f93841d",
       "position": [
-        4.647606598018379e-16,
+        0.09560865472217106,
         -0.09309593430002394,
         0.9958614412096913
       ],
@@ -1183,8 +1183,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1204,9 +1204,9 @@
     "60f45276-8378-405e-91df-72f82773d217": {
       "id": "60f45276-8378-405e-91df-72f82773d217",
       "position": [
-        2.0938640504527578e-17,
+        0,
         -0.09429925357383517,
-        0.22715076746938534
+        -0.10557138302948188
       ],
       "rotation": [
         0,
@@ -1583,8 +1583,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1621,8 +1621,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1659,8 +1659,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1697,8 +1697,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1735,8 +1735,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1773,8 +1773,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1811,8 +1811,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 2,
-        "height": 1
+        "width": 0.5,
+        "height": 0.3
       },
       "material": {
         "type": "basic",
@@ -1880,8 +1880,8 @@
     "7cdb2c90-c1f3-459f-bc2c-a324b77bded0": {
       "id": "7cdb2c90-c1f3-459f-bc2c-a324b77bded0",
       "position": [
-        0.0035969592628051217,
-        0.05153319870529721,
+        0.008522565920622505,
+        0.015771559094010984,
         0.20159361742275345
       ],
       "rotation": [
@@ -1910,7 +1910,19 @@
           "asset": "assets/cartasss-01.png"
         }
       },
-      "components": {},
+      "components": {
+        "83b66ee0-cf57-485b-ae23-ca17f7634654": {
+          "id": "83b66ee0-cf57-485b-ae23-ca17f7634654",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "activateOnClick": false,
+            "targetEntity": {
+              "type": "entity",
+              "id": "7cdb2c90-c1f3-459f-bc2c-a324b77bded0"
+            }
+          }
+        }
+      },
       "name": "Plane (34)",
       "order": 4.324558260674497,
       "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1"
@@ -2028,6 +2040,240 @@
       "name": "Plane (37)",
       "order": 8.638477711649283,
       "parentId": "7098ad0d-d164-4123-b57c-7422a2615acf"
+    },
+    "7332eeb9-8355-44f7-87e1-79d54b977a7f": {
+      "id": "7332eeb9-8355-44f7-87e1-79d54b977a7f",
+      "position": [
+        0.016434621493162105,
+        0.4010470145491615,
+        0.2895153019592446
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1",
+      "components": {
+        "f01b700f-e5ea-43ff-9e95-3ca117afb063": {
+          "id": "f01b700f-e5ea-43ff-9e95-3ca117afb063",
+          "name": "Entity Toggle Button",
+          "parameters": {
+            "targetEntity": {
+              "type": "entity",
+              "id": "7cdb2c90-c1f3-459f-bc2c-a324b77bded0"
+            }
+          }
+        }
+      },
+      "ui": {
+        "type": "3d",
+        "width": 100,
+        "height": 36,
+        "background": "#c38c4a",
+        "borderRadius": 12,
+        "flexDirection": "row",
+        "backgroundOpacity": 1,
+        "padding": "10",
+        "gap": "6",
+        "alignItems": "center",
+        "justifyContent": "center",
+        "flexWrap": "nowrap",
+        "backgroundSize": "contain"
+      },
+      "name": "Button",
+      "order": 6.698177223854957
+    },
+    "219240d6-3bf6-43e8-b69a-0499855a9e41": {
+      "id": "219240d6-3bf6-43e8-b69a-0499855a9e41",
+      "position": [
+        -0.323,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "7332eeb9-8355-44f7-87e1-79d54b977a7f",
+      "components": {},
+      "name": "Icon",
+      "ui": {
+        "width": 16,
+        "height": 16,
+        "image": {
+          "type": "url",
+          "url": "https://cdn.8thwall.com/web/assets/sprites/8w-icon-m8j35d7y.png"
+        },
+        "backgroundOpacity": 1
+      },
+      "order": 0.2620431112222527,
+      "disabled": true
+    },
+    "a416b277-10da-4a80-9cae-cf3e737d1a47": {
+      "id": "a416b277-10da-4a80-9cae-cf3e737d1a47",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "7332eeb9-8355-44f7-87e1-79d54b977a7f",
+      "components": {},
+      "name": "Text",
+      "ui": {
+        "width": 60,
+        "height": 20,
+        "text": "Leer la carta",
+        "color": "#ffffff",
+        "fontSize": 10,
+        "textAlign": "center",
+        "verticalTextAlign": "center"
+      },
+      "order": 1.3109536398398278
+    },
+    "2fb6dfed-cec9-4318-b0d7-9fc0c16b9792": {
+      "id": "2fb6dfed-cec9-4318-b0d7-9fc0c16b9792",
+      "position": [
+        0.019249635798304965,
+        0.05153319870529721,
+        0.17322665645111374
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 0.7,
+        "height": 0.9
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/cartasss-03.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (38)",
+      "order": 3.1236058380749565,
+      "parentId": "f0707604-f7f8-40ca-8d0e-7f3f2dc613bb"
+    },
+    "97b6729b-bf92-40d4-a313-02f75c4b87fc": {
+      "id": "97b6729b-bf92-40d4-a313-02f75c4b87fc",
+      "position": [
+        0.061286487904314235,
+        0.05153319870529721,
+        0.271173471851474
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 0.7,
+        "height": 0.9
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/cartasss-06.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (39)",
+      "order": 11.64579574379794,
+      "parentId": "069628cb-43a8-4dc4-8c4b-5962d3cf0370"
+    },
+    "18f12b96-acc0-4e28-98a4-cd75d84a632b": {
+      "id": "18f12b96-acc0-4e28-98a4-cd75d84a632b",
+      "position": [
+        0.12061391365725349,
+        0.05153319870529721,
+        0.271173471851474
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        0.9999999999999998,
+        1
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 0.7,
+        "height": 0.9
+      },
+      "material": {
+        "type": "basic",
+        "color": "#FFFFFF",
+        "textureFiltering": "sharp",
+        "forceTransparent": true,
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/cartasss-07.png"
+        }
+      },
+      "components": {},
+      "name": "Plane (40)",
+      "order": 11.76526799093445,
+      "parentId": "d53ec8c1-bc20-4068-8411-9fda8fa0fd2f"
     }
   },
   "spaces": {
