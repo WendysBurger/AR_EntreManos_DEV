@@ -47,12 +47,12 @@
       "material": null,
       "name": "Camera",
       "position": [
-        0,
+        -3.8632114806321076,
         2,
-        3
+        2.9806901439037645
       ],
       "rotation": [
-        0.0004436887233141012,
+        0.00044368872331410124,
         0.9659425615285845,
         -0.25875089860082223,
         0.0016563336561801576
@@ -136,7 +136,7 @@
       "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1",
       "components": {},
       "name": "Plane",
-      "order": 4.482759442009929
+      "order": 3.9600441178832044
     },
     "de8f996a-ff60-432d-9d78-26697b5acec1": {
       "id": "de8f996a-ff60-432d-9d78-26697b5acec1",
@@ -159,7 +159,22 @@
       "geometry": null,
       "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "components": {},
+      "components": {
+        "60086ae8-3b39-4781-bcd3-3c675043c6ce": {
+          "id": "60086ae8-3b39-4781-bcd3-3c675043c6ce",
+          "name": "Image Target Audio",
+          "parameters": {
+            "audioEntity": {
+              "type": "entity",
+              "id": "896ffbec-9bf2-497c-bf29-c69dc865fe33"
+            },
+            "imageTarget": {
+              "type": "entity",
+              "id": "de8f996a-ff60-432d-9d78-26697b5acec1"
+            }
+          }
+        }
+      },
       "name": "Carta 1",
       "imageTarget": {
         "name": "CartaYta_1"
@@ -271,25 +286,9 @@
       "geometry": null,
       "material": null,
       "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1",
-      "components": {
-        "cac7d1fa-fdb8-4850-8be4-bb75186da784": {
-          "id": "cac7d1fa-fdb8-4850-8be4-bb75186da784",
-          "name": "Image Target Audio",
-          "parameters": {
-            "imageTarget": {
-              "type": "entity",
-              "id": "de8f996a-ff60-432d-9d78-26697b5acec1"
-            },
-            "volume": 1,
-            "audioEntity": {
-              "type": "entity",
-              "id": "896ffbec-9bf2-497c-bf29-c69dc865fe33"
-            }
-          }
-        }
-      },
+      "components": {},
       "name": "Audio 1",
-      "order": 5.614032101564815,
+      "order": 13.20411946404373,
       "audio": {
         "src": {
           "type": "asset",
@@ -361,7 +360,7 @@
       },
       "components": {},
       "name": "Plane (1)",
-      "order": 4.738664483858462,
+      "order": 5.8598048253346136,
       "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1"
     },
     "65ee379a-7c40-4076-aa1e-fb5f2643ee34": {
@@ -399,7 +398,7 @@
       },
       "components": {},
       "name": "Plane (2)",
-      "order": 5.244085092059979,
+      "order": 6.904086282203659,
       "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1"
     },
     "51cbda1f-f04e-47e5-9397-53ba4f35f8c9": {
@@ -437,7 +436,7 @@
       },
       "components": {},
       "name": "Plane (3)",
-      "order": 5.407380731899425,
+      "order": 8.833242979602316,
       "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1"
     },
     "4805e375-be6d-46d4-84d2-4ba01d2acd0a": {
@@ -475,7 +474,7 @@
       },
       "components": {},
       "name": "Plane (4)",
-      "order": 5.517440691860312,
+      "order": 10.299725589099268,
       "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1"
     },
     "0737d50c-966c-4897-b5ad-84bd3540958c": {
@@ -513,7 +512,7 @@
       },
       "components": {},
       "name": "Plane (5)",
-      "order": 5.56589577360238,
+      "order": 11.707448485581951,
       "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1"
     },
     "b74b916c-3770-4999-9d75-66ecc54fd97f": {
@@ -1924,8 +1923,9 @@
         }
       },
       "name": "Plane (34)",
-      "order": 4.324558260674497,
-      "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1"
+      "order": 2.275235099391577,
+      "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1",
+      "disabled": true
     },
     "bfa4b65e-59d3-496f-9f4b-56799f45a733": {
       "id": "bfa4b65e-59d3-496f-9f4b-56799f45a733",
@@ -2044,7 +2044,7 @@
     "7332eeb9-8355-44f7-87e1-79d54b977a7f": {
       "id": "7332eeb9-8355-44f7-87e1-79d54b977a7f",
       "position": [
-        0.016434621493162105,
+        0.047489686547729004,
         0.4010470145491615,
         0.2895153019592446
       ],
@@ -2063,9 +2063,9 @@
       "material": null,
       "parentId": "de8f996a-ff60-432d-9d78-26697b5acec1",
       "components": {
-        "f01b700f-e5ea-43ff-9e95-3ca117afb063": {
-          "id": "f01b700f-e5ea-43ff-9e95-3ca117afb063",
-          "name": "Entity Toggle Button",
+        "45ee7994-d4bb-4dad-8b0d-69e55b288de0": {
+          "id": "45ee7994-d4bb-4dad-8b0d-69e55b288de0",
+          "name": "Panel Toggle Button",
           "parameters": {
             "targetEntity": {
               "type": "entity",
@@ -2090,7 +2090,7 @@
         "backgroundSize": "contain"
       },
       "name": "Button",
-      "order": 6.698177223854957
+      "order": 15.082555574943267
     },
     "219240d6-3bf6-43e8-b69a-0499855a9e41": {
       "id": "219240d6-3bf6-43e8-b69a-0499855a9e41",
